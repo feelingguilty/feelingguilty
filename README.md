@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Amritanshu Srivastava</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">A passionate GenAI Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=feelingguilty&label=Profile%20views&color=0e75b6&style=flat" alt="feelingguilty" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=feelingguilty" alt="feelingguilty" /></a> </p>
 
-- 🔭 I’m currently working on **Caption Generation**
+- 🔭 I’m currently working on **vLM's**
 
-- 🌱 I’m currently learning **Django and App Development**
+- 🌱 I’m currently learning **App Development**
 
 - 📫 How to reach me **amritanshus550@gmail.com**
 
